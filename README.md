@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Sultan! <br/><a href="https://github.com/onlysully">Programmer</a>, Aspiring Cybersecurity Professional</a>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**onlysully/onlysully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Azure Sentinel Map Depicitng Live Cyber Attacks</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Azure Cloud Dectection Project</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+Cybersecurity Professional</a>
+<h2>📄 Certifications:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>IBM Cybersecurity Analyst</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
