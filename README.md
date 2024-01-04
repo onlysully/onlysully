@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sultan! <br/><a href="https://github.com/onlysully">Programmer</a>, Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Sultan! <br/><a href="https://github.com/onlysully">Programmer</a> & Aspiring Cybersecurity Professional!</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Sentinel Map Depicitng Live Cyber Attacks</b>
